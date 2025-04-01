@@ -1,0 +1,12 @@
+/Users/dev/fullstack-rust-nextjs-main/backend/target/debug/deps/libgetrandom-ec3217a263b314b2.rmeta: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/error.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/util.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/error_std_impls.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/../README.md /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/getentropy.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/../util_libc.rs
+
+/Users/dev/fullstack-rust-nextjs-main/backend/target/debug/deps/getrandom-ec3217a263b314b2.d: /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/lib.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/error.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/util.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/error_std_impls.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/../README.md /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/getentropy.rs /Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/../util_libc.rs
+
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/lib.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/error.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/util.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/error_std_impls.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/../README.md:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/getentropy.rs:
+/Users/dev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.2/src/backends/../util_libc.rs:
