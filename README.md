@@ -10,8 +10,8 @@ A simple login-logout CRUD application built using:
 ## Architecture
 
 The application consists of three Docker containers:
-1. **Frontend** (Next.js 14)
-2. **Backend** (Rust API server)
+1. **Frontend** (Next.js 14)*
+2. **Backend** (Rust API server)*
 3. **Database** (PostgreSQL)
 
 All containers are orchestrated using `Docker Compose`.
@@ -70,3 +70,4 @@ postgres=# select * from users;
   1 | Deep             |  toodeep@yahoo.com
 (3 rows)
 ```
+*Used FracesCoxx dockerhub repositories for rust and next
