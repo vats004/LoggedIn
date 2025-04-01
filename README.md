@@ -32,7 +32,7 @@ _Optional (if you want to build manually):_
 - [Node.js & npm](https://nodejs.org/)
 - [Rust](https://www.rust-lang.org/)
 
-## 🔧 Setup & Run
+## Setup & Run
 
 1. Clone the repository:
    ```sh
