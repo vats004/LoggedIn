@@ -36,7 +36,7 @@ _Optional (if you want to build manually):_
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/login-logout-app.git
+   git clone https://github.com/vats004/LoggedIn.git
    cd login-logout-app
    ```
 2. Start the application:
