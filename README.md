@@ -1,4 +1,4 @@
-# Login-Logout App
+# LoggedIn
 
 A simple login-logout CRUD application built using:
 
